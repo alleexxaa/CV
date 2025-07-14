@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Hello! I’m Alexandra and I’m currently working as a fellow in the California Department of Public Health California Pathways into Public Health Fellowship Program. I am working from the San Bernardino County Department of Public Health under the Safe Drinking water program in the Division of Environmental Health Services.>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **stuff1** list1
+- **stuff2:** list2
+- **stuff3:** I do things.
 
 {% include_relative _includes/education.md %}
 
